@@ -15,6 +15,7 @@ public static void main(String[] args) {
 //    int k =obj;
 //    intValue();
 //    System.out.println(k);
+
     ArrayList<Integer> list = new ArrayList<>();
 
     // Adding the int primitives type values by
@@ -23,6 +24,7 @@ public static void main(String[] args) {
 
 //        System.out.println(list.add(Integer.valueOf(i))); //boxing
         System.out.println(list.add(i)); //autoboxing
+        System.out.println("\n");
 
 }
 }

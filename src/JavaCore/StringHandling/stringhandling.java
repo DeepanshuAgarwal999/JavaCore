@@ -62,9 +62,9 @@ public class stringhandling {
 
 }
 
-class StringBufferDemo {
-    StringBufferDemo(String str) {
-        System.out.println(str);
-    }
+// class StringBufferDemo {
+//     StringBufferDemo(String str) {
+//         System.out.println(str);
+//     }
 
-}
+// }
